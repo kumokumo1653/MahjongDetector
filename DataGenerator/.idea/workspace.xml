@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f166ddd6-3202-4a7f-b708-a3107dbba514" name="Default" comment="" />
+    <list default="true" id="f166ddd6-3202-4a7f-b708-a3107dbba514" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataGenerator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataGenerator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/1m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/1m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/1p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/1p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/1s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/1s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/2m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/2m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/2p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/2p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/2s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/2s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/3m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/3m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/3p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/3p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/3s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/3s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/4m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/4m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/4p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/4p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/4s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/4s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/5m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/5m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/5mR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/5p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/5p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/5pR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/5s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/5s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/5sR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/6m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/6m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/6p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/6p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/6s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/6s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/7m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/7m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/7p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/7p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/7s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/7s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/8m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/8m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/8p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/8p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/8s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/8s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/9m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/9m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/9p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/9p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/9s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/9s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/E.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/N.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/S.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture_Data/W.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/genarator.py" beforeDir="false" afterPath="$PROJECT_DIR$/genarator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Annotations/000000.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Annotations/000000.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Annotations/000001.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Annotations/000001.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Annotations/000002.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Annotations/000002.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Imagedata/000000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Imagedata/000001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Imagedata/000002.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,13 +63,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="genarator.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/genarator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            <state relative-caret-position="350">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Debug.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,10 +96,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/mj.py" />
+        <option value="$USER_HOME$/ssd.pytorch/train.py" />
         <option value="$PROJECT_DIR$/genarator.py" />
+        <option value="$PROJECT_DIR$/Debug.py" />
       </list>
     </option>
   </component>
@@ -45,42 +115,12 @@
     <option name="width" value="941" />
     <option name="height" value="1087" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>BashSupport</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,11 +132,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ssd.pytorch/train.py" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,8 +152,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="genarator" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.Debug">
+    <configuration name="Debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataGenerator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -122,16 +165,63 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="genarator" type="PythonConfigurationType" factoryName="Python">
       <module name="DataGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genarator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/ssd.pytorch" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/ssd.pytorch/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Debug" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -147,31 +237,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="-1" y="0" width="1922" height="1054" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07481162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33162218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39572737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07473684" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33085108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39572737" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -182,87 +269,33 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="1" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/genarator.py">
+    <entry file="file://$PROJECT_DIR$/mj.py" />
+    <entry file="file://$USER_HOME$/ssd.pytorch/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2725">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/genarator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="350">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
+    <entry file="file://$PROJECT_DIR$/Debug.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="100">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
