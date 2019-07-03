@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f166ddd6-3202-4a7f-b708-a3107dbba514" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Debug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataGenerator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataGenerator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homography.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/1m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/1m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/1p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/1p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/1s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/1s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/2m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/2m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/2p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/2p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/2s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/2s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/3m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/3m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/3p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/3p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/3s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/3s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/4m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/4m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/4p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/4p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/4s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/4s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/5m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/5m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/5mR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/5p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/5p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/5pR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/5s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/5s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/5sR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/6m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/6m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/6p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/6p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/6s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/6s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/7m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/7m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/7p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/7p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/7s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/7s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/8m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/8m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/8p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/8p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/8s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/8s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/9m.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/9m.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/9p.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/9p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/9s.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture_Data/9s.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/C.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/E.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/F.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/N.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/P.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/S.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture_Data/W.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/genarator.py" beforeDir="false" afterPath="$PROJECT_DIR$/genarator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/Annotations/000000.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Annotations/000000.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/Annotations/000001.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Annotations/000001.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/Annotations/000002.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Annotations/000002.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/Imagedata/000000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/Imagedata/000001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/Imagedata/000002.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,10 +17,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/genarator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="200">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homography.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="78" column="41" lean-forward="true" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+              <folding>
+                <element signature="e#201#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,16 +67,16 @@
       <list>
         <option value="$PROJECT_DIR$/mj.py" />
         <option value="$USER_HOME$/ssd.pytorch/train.py" />
-        <option value="$PROJECT_DIR$/genarator.py" />
         <option value="$PROJECT_DIR$/Debug.py" />
+        <option value="$PROJECT_DIR$/homography.py" />
+        <option value="$PROJECT_DIR$/genarator.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="553" />
-    <option name="y" value="47" />
-    <option name="width" value="941" />
-    <option name="height" value="1087" />
+    <option name="x" value="1919" />
+    <option name="width" value="1922" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -121,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,12 +96,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/ssd.pytorch/train.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
@@ -152,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Debug">
+  <component name="RunManager" selected="Python.homography">
     <configuration name="Debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataGenerator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +158,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="homography" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataGenerator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homography.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataGenerator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,6 +202,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homography" />
         <item itemvalue="Python.Debug" />
         <item itemvalue="Python.train" />
       </list>
@@ -237,20 +222,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1054" extended-state="6" />
+    <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07473684" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33085108" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33022773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39572737" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -280,20 +265,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genarator.py">
+    <entry file="file://$PROJECT_DIR$/Debug.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="100">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Debug.py">
+    <entry file="file://$PROJECT_DIR$/homography.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="150">
+          <caret line="78" column="41" lean-forward="true" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+          <folding>
+            <element signature="e#201#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genarator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
           </folding>

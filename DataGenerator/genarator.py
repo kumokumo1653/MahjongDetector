@@ -6,6 +6,7 @@ import math
 #import pandas as pd
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as md
+import homography
 #背景描画
 backgroud = Image.new('RGB',(610,610),(60,180,110))
 draw = ImageDraw.Draw(backgroud)
@@ -43,7 +44,11 @@ for j in range(times):
     x,y=random.randrange(0,100),random.randrange(100,400)
     i=0
     data = []
-    theta = math.radians(random.uniform(0, 360))
+    rand = random.choice([True,False])
+    if(rand):
+        theta = math.radians(random.uniform(-15,15))
+    else:
+        theta = math.radians(random.uniform(165, 195))
     while x<430:
         pai = random.choice(Pai)
         pai_image = pai[0]
@@ -119,7 +124,7 @@ for j in range(times):
     draw = ImageDraw.Draw(bg)
     #for i in data:
         #print(i)
-     #   draw.rectangle((i[0],i[1],i[2],i[3]),outline=(256,256,256))
+        #draw.rectangle((i[0],i[1],i[2],i[3]),outline=(256,256,256))
 
     num = str(j)
     num = num.zfill(6)
